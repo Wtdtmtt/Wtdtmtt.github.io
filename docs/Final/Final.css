@@ -9,6 +9,7 @@ body {
 #header {
 	position:sticky;
 	top:-120px;
+	clear:both;
 }
 
 #header h1{
